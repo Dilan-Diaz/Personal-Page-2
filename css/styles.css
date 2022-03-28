@@ -1,0 +1,51 @@
+body
+{
+  background-color: powderblue;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 2px;
+  width: 10%;
+}
+
+h1
+{
+  color: #66BFBF;
+}
+
+/*
+h3
+{
+  color: #66BFBF;
+}
+*/
+
+.assign
+{
+  color: blue;
+}
+
+.hobbies
+{
+  color: green;
+}
+
+#work
+{
+  color: red;
+}
+
+.propic
+{
+
+}
+
+.garlic
+{
+  border-radius: 150%;
+}
